@@ -6,7 +6,7 @@
 /*   By: leda-sil <leda-sil@student.42sp.org.br     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/20 00:11:09 by leda-sil          #+#    #+#             */
-/*   Updated: 2022/04/20 15:53:48 by leda-sil         ###   ########.fr       */
+/*   Updated: 2022/04/23 03:26:05 by leda-sil         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -70,7 +70,7 @@ void	ft_putnbr_base(int nbr, char *base)
 			ft_putchar('-');
 			nbr_l *= -1;
 		}
-		if (nbr_l > 0)
+		if (nbr_l >= 0)
 		{
 			dig = nbr_l % tam;
 			nbr_l = nbr_l / tam;
