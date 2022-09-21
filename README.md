@@ -1,13 +1,14 @@
-# Basecamp-42 (Abril-2022)
-PT > Repositório para os códigos criados durante o Basecamp da 42 São Paulo<br>
-     Basecamp Reloaded > Lista dos principais exercícios do Basecamp, como revisão para o início da formação.
+<img src="https://game.42sp.org.br/static/assets/images/42-saopaulo.png" height=80>
 
-EN > Repository created to upload the codes from 42 São Paulo Basecamp<br>
-     Basecamp Reloaded > List of main exercises from Basecamp, as review before we start the formation.
+# BASECAMP 42SP (ABRIL-2022)
+Repositório para guardar os códigos criadso durante o Basecamp da 42 São Paulo realizado em abril de 2022.
 
-###   AVISO    //    WARNING
-PT > Os Exercícios podem ou não estar corretos.
-     Se você for um camper, não copie os códigos. Entenda-os.
-     
-EN > The exercises may be correct or not.
-     If you are a camper, do not copy the codes. Understand it.
+O Basecamp Reloaded é uma lista de exercícios passada antes do início da formação para relembrar-mos o que aprendemos no Basecamp e ter a chance de ver conteúdos das listas que não tinhamos chegado.
+
+### Obs.:
+Os códigos estão da mesma maneira que foram entregues e não há garantia de que eles estavam/estão corretos de acordo com os PDFs.
+
+## Sobre o Basecamp
+Basecamp foi a versão online do processo seletivo da 42 (hoje em dia é presencial e se chama Piscina).
+E é durante o basecamp que começamos a experimentar os métodos da 42, para muitas pessoas também é o primeiro encontro com
+linguagem C e comandos do Shell.
